@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\TiTpe21\root-rakendus Week13-test\Ylesanne4\bin\Debug\netcoreapp3.1\Ylesanne4.exe
+C:\Users\opilane\source\repos\TiTpe21\root-rakendus Week13-test\Ylesanne4\bin\Debug\netcoreapp3.1\Ylesanne4.deps.json
+C:\Users\opilane\source\repos\TiTpe21\root-rakendus Week13-test\Ylesanne4\bin\Debug\netcoreapp3.1\Ylesanne4.runtimeconfig.json
+C:\Users\opilane\source\repos\TiTpe21\root-rakendus Week13-test\Ylesanne4\bin\Debug\netcoreapp3.1\Ylesanne4.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TiTpe21\root-rakendus Week13-test\Ylesanne4\bin\Debug\netcoreapp3.1\Ylesanne4.dll
+C:\Users\opilane\source\repos\TiTpe21\root-rakendus Week13-test\Ylesanne4\bin\Debug\netcoreapp3.1\Ylesanne4.pdb
+C:\Users\opilane\source\repos\TiTpe21\root-rakendus Week13-test\Ylesanne4\obj\Debug\netcoreapp3.1\Ylesanne4.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TiTpe21\root-rakendus Week13-test\Ylesanne4\obj\Debug\netcoreapp3.1\Ylesanne4.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TiTpe21\root-rakendus Week13-test\Ylesanne4\obj\Debug\netcoreapp3.1\Ylesanne4.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TiTpe21\root-rakendus Week13-test\Ylesanne4\obj\Debug\netcoreapp3.1\Ylesanne4.dll
+C:\Users\opilane\source\repos\TiTpe21\root-rakendus Week13-test\Ylesanne4\obj\Debug\netcoreapp3.1\Ylesanne4.pdb
+C:\Users\opilane\source\repos\TiTpe21\root-rakendus Week13-test\Ylesanne4\obj\Debug\netcoreapp3.1\Ylesanne4.genruntimeconfig.cache
